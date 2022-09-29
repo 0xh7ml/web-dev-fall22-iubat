@@ -128,11 +128,11 @@ Join our the messenger group [Fall 2022](#). And google classroom code is 00000.
 - [JS output using log](https://www.w3schools.com/js/js_output.asp)
 - [DOM Manipulation using Id](https://www.w3schools.com/js/js_htmldom_methods.asp)
 - [JS Typecast to Int](https://www.w3schools.com/jsref/jsref_parseint.asp)
-- [Javascript Condional Statement using If Else ladder](https://www.w3schools.com/js/js_if_else.asp)
+- [JS Conditional  Statement using If Else ladder](https://www.w3schools.com/js/js_if_else.asp)
 
 **Quiz**: 4
 
-**Bonus**: Git & Github using Command Line.  
+**Bonus**: Git & GitHub using Command Line.  
 
 ### Module 5: Web Development `dev` (JS)
 **Project 5** - [Calculator](https://shz-code.github.io/simple-js-calculator/)
@@ -146,7 +146,7 @@ Join our the messenger group [Fall 2022](#). And google classroom code is 00000.
 
 **Quiz**: 5
 
-**Bonus**: JQuery Basics
+**Bonus**: jQuery Basics
 
 
 
