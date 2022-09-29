@@ -104,13 +104,13 @@ Join our the messenger group [Fall 2022](#). And google classroom code is 00000.
 **Repository Link** - [Code](https://github.com/shz-code/frontend-bootcamp)
 - [Bootstrap ](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
 - [Bootstrap Nav](https://getbootstrap.com/docs/5.2/components/navbar/)
-- [Bootsrtap Card](https://getbootstrap.com/docs/5.2/components/card/)
-- [Bootsrtap Accordion](https://getbootstrap.com/docs/5.2/components/accordion/)
+- [Bootstrap  Card](https://getbootstrap.com/docs/5.2/components/card/)
+- [Bootstrap Accordion](https://getbootstrap.com/docs/5.2/components/accordion/)
 - [Bootstrap Flex](https://getbootstrap.com/docs/5.2/utilities/flex/)
 - [Bootstrap Grid](https://getbootstrap.com/docs/5.2/layout/grid/)
 - Bootstrap Padding, Margin
-- [Bootsrtap Form](https://getbootstrap.com/docs/5.2/forms/overview/)
-- [Bootsrtap List-group](https://getbootstrap.com/docs/5.2/components/list-group/)
+- [Bootstrap Form](https://getbootstrap.com/docs/5.2/forms/overview/)
+- [Bootstrap List-group](https://getbootstrap.com/docs/5.2/components/list-group/)
 - [Bootstrap Modal](https://getbootstrap.com/docs/5.2/components/modal/)
 
 
