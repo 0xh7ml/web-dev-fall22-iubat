@@ -76,7 +76,7 @@ Join our the messenger group [Fall 2022](#). And google classroom code is 00000.
 
 **Quiz**: 1
 
-**Bonus**: Github Basics using VS Code (Setting up profile, Making Repository, Staging, Commit, Github Pages)
+**Bonus**: Git & Github Basics using VS Code (What and How, Setting up profile, Making Repository, Staging, Commit, Github Pages).
 
 ### Module 2: Web Design `not so beginner` (HTML & CSS)
 **Project 2** - [Influencer Products](https://shz-code.github.io/influencer-products/)
@@ -96,7 +96,7 @@ Join our the messenger group [Fall 2022](#). And google classroom code is 00000.
 
 **Quiz**: 2
 
-**Bonus**: VS code customization and Command line basics 
+**Bonus**: Chrome Developer Tools.
 
 ### Module 3: Web Design `junior designer` (CSS)
 **Project 3** - [Frontend Bootcamp ](shz-code.github.io/frontend-bootcamp/)
@@ -116,12 +116,13 @@ Join our the messenger group [Fall 2022](#). And google classroom code is 00000.
 
 **Quiz**: 3
 
-**Bonus**:
+**Bonus**:  VS code customization and Command Line basics.
 
-### Module 4: Web Development `noobie` (JS)
+### Module 4: Web Development `noobie` (HTML, CSS & JS)
 **Project 4** - [Grade Calculator](https://shz-code.github.io/grade-calculator/)
 
 **Repository Link** - [Code](https://github.com/shz-code/grade-calculator)
+- [Table](https://www.w3schools.com/html/html_tables.asp)
 - [Variables](https://www.w3schools.com/js/js_variables.asp)
 - [Console Tab Chome DevTools](https://developer.chrome.com/docs/devtools/console/)
 - [JS output using log](https://www.w3schools.com/js/js_output.asp)
@@ -131,7 +132,7 @@ Join our the messenger group [Fall 2022](#). And google classroom code is 00000.
 
 **Quiz**: 4
 
-**Bonus**:
+**Bonus**: Git & Github using Command Line.  
 
 ### Module 5: Web Development `dev` (JS)
 **Project 5** - [Calculator](https://shz-code.github.io/simple-js-calculator/)
@@ -145,7 +146,7 @@ Join our the messenger group [Fall 2022](#). And google classroom code is 00000.
 
 **Quiz**: 5
 
-**Bonus**:
+**Bonus**: JQuery Basics
 
 
 
